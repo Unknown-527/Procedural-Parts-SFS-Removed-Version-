@@ -11,4 +11,4 @@ The original creator will work on this from September and had made a post that p
 This fork can be deleted by original creator when he wants.
 
 # Do not download Anymore
-This version is being reworked some of the content shall be altered rendering rockets using this update useless
+This version has been reworked some of the content is altered rendering rockets using this update broken if you switch to the new update.
